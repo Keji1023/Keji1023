@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Keji1023
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on web, graphic and simple game projects
+- 👋 Hi, I’m Keji Adedayo
+- 👀 I’m interested in UI/UX Design and Computational Biology
+- 🌱 I’m currently learning R, HTML, CSS and JS
+- 💞️ I’m looking to collaborate on web, graphic and simple game projects as well as statistical models
 - 📫 You can reach me on instagram @ore_adedayo
 
 <!---
